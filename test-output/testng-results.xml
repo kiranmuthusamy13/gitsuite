@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="gitsuite" duration-ms="8284" started-at="2022-12-05T09:26:49 IST" finished-at="2022-12-05T09:26:58 IST">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="8284" started-at="2022-12-05T09:26:49 IST" finished-at="2022-12-05T09:26:58 IST">
+      <class name="gitpack2.GitTest3">
+        <test-method status="PASS" signature="git3()[pri:0, instance:gitpack2.GitTest3@6366ebe0]" name="git3" duration-ms="7885" started-at="2022-12-05T09:26:49 IST" finished-at="2022-12-05T09:26:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- git3 -->
+      </class> <!-- gitpack2.GitTest3 -->
+      <class name="gitpack1.GitTest1">
+        <test-method status="PASS" signature="git()[pri:0, instance:gitpack1.GitTest1@7dc222ae]" name="git" duration-ms="8199" started-at="2022-12-05T09:26:49 IST" finished-at="2022-12-05T09:26:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- git -->
+      </class> <!-- gitpack1.GitTest1 -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- gitsuite -->
+</testng-results>
